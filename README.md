@@ -1,7 +1,6 @@
 ### Oie! Eu sou a Isabella Kazama
 
 - 👩‍🎓 Atualmente fazendo graduação em Ciência da Computação
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/kazamisa">
